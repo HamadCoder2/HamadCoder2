@@ -1,21 +1,21 @@
 <img src="./img/banner.png" align="center" />
-<h1 align="center">Hi 👋, I'm Satya Prakash</h1>
+<h1 align="center">Hi 👋, I'm Hamad Saif</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=System+Architect;AWS+Cloud+Ops;Web+Developer;Data+Science+Trainee" alt="Typing SVG" /></a></h3>
-<h3 align="center">Experienced in System Architect, Web Developer and Business Analyst roles. Certified in Data Science</h3>
+<h3 align="center">Mern Stack Web Developer and Front-End Designer</h3>
 
 <img src="./img/profile.png" width="300" align="right" />
 
-- 🔭 I’m currently working on [Job Portal `Saas` Platform](https://satyaprakash.me)
+- 🔭 I’m currently working on [React Website `Saas` Platform](https://hamadsaif.vercel.app)
 
-- 👯 I’m looking to collaborate on [Saas related `Business Ideas`](https://satyaprakash.me)
+- 👯 I’m looking to collaborate on [Saas related `Business Ideas`](https://prakashzip.com/hamad)
 
-- 👨‍💻 All of my projects are available at [satyaprakash.me](https://satyaprakash.me)
+- 👨‍💻 All of my projects are available at [hamadsaif web app](https://hamadsaif.vercel.app)
 
-- 📝 I regularly write articles on [satyaprakash.me](https://satyaprakash.me)
+- 📝 I regularly write articles on [blog.prakashzip.com](https://blog.prakashzip.com)
 
-- 📫 How to reach me **contact@satyaprakash.me**
+- 📫 How to reach me **hamadsaif.dev@gmail.com**
 
-- 📄 Know about my experiences [satyaprakash.me](https://satyaprakash.me)
+- 📄 Know about my experiences [hamadsaif.vercel.app](https://hamadsaif.vercel.app)
 
 <h3 align="left">🤖 More About Me:</h3>
 <p align="left">
