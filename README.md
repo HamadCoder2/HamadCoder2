@@ -19,8 +19,7 @@
 
 - I have strong technical skills in Web development (Mern Stack), UI/UX, WordPress, .
 
-- I am Bsc in Computer Science from utkal University.
-In my free time, I love assimilating new skills, reading novels, watching movies, and spending time with my friends and family.
+- Hello, my name is Hamad Saif, and I hail from Puri. I hold a Bachelor's degree (BSc. Hons) in Computer Science. My formal education in computer science has provided me with a strong foundation, and I've been dedicated to honing my skills ever since. I view every project as an opportunity for personal growth and learning, continuously pushing my boundaries to create designs that make a lasting impact. I am passionate about taking on exciting projects and engaging in discussions about startups with like-minded individuals. In my free time, I am dedicated to acquiring new skills and exploring various interests
 
 
 <h3 align="left">📩 Connect with me:</h3> 
