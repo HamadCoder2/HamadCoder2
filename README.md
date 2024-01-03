@@ -16,15 +16,12 @@
 
 <h3 align="left">🤖 More About Me:</h3>
 <p align="left">
-  
-- I have <b>`3 Years`<b> of experience in HR Operations, Business Development, Talent Acquisition, Event Planning and management.
 
-- I have strong technical skills in Web development (Mern Stack), UI/UX, WordPress, HRMS, BD, Talent Acquisition (ATS), and Event Planning and management (Trello, Slack, Excel, Taskade, Event Flow).
+- I have strong technical skills in Web development (Mern Stack), UI/UX, WordPress, .
 
-- I am B.E. in Computer Science and Engineering from Lovely Professional University.
+- I am Bsc in Computer Science from utkal University.
 In my free time, I love assimilating new skills, reading novels, watching movies, and spending time with my friends and family.
 
-- <b>Specialities:</b> Talent Acquisition, HR Operation, Web Developer, Business Development, Data Science, Event Planning and management, UI/UX, Web Development, Digital Marketing, Email Marketing, Content writing
 
 <h3 align="left">📩 Connect with me:</h3> 
 <p align="left">
