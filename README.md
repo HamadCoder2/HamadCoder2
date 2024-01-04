@@ -6,13 +6,13 @@
 
 - 👯 I’m looking to collaborate on (https://prakashzip.com/hamad)
 
-- 👨‍💻 All of my projects are available at [hamadsaif web app](https://hamadsaif.vercel.app)
+- 👨‍💻 All of my projects are available at [hamadsaif.onrenders.com](https://hamadsaif.onrender.com/)
 
 - 📝 I regularly write articles on [blog.prakashzip.com](https://blog.prakashzip.com)
 
 - 📫 How to reach me **hamadsaif.dev@gmail.com**
 
-- 📄 Know about my experiences [hamadsaif.vercel.app](https://hamadsaif.vercel.app)
+- 📄 Know about my experiences [hamadsaif.onrenders.com](https://hamadsaif.onrender.com/)
 
 <h3 align="left">🤖 More About Me:</h3>
 <p align="left">
