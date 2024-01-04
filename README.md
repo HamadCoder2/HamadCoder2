@@ -37,22 +37,4 @@
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-🔥 Streak Stats
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashzip&theme=algolia" alt="prakashzip" /></p>
-
-📊 Github Stats
-
-  - <b>💻 GitHub Profile Stats</b>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashzip&show_icons=true&locale=en&layout=compact&theme=algolia" alt="prakashzip" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashzip&show_icons=true&locale=en&theme=algolia" alt="prakashzip" height="165" /></p>
-
-<b>⚡ Recent GitHub Activity</b>
-  
-  <br/>
-   <a href="https://github.com/prakashzip"><img alt="Satya Prakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prakashzip&custom_title=prakash's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-  
 
