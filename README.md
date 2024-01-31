@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [React Website](https://hamadsaif.vercel.app)                 
 
-- 👯 I’m looking to collaborate on (https://prakashzip.com/hamad)
+- 👯 I’m looking to collaborate on  [hamadsaif.onrenders.com](https://hamadsaif.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [hamadsaif.onrenders.com](https://hamadsaif.onrender.com/)
 
-- 📝 I regularly write articles on [blog.prakashzip.com](https://blog.prakashzip.com)
+- 📝 I regularly write articles on (https://hashnode.com/@hamad786)
 
 - 📫 How to reach me **hamadsaif.dev@gmail.com**
 
