@@ -35,7 +35,6 @@
    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://ph-files.imgix.net/99145b25-863b-473c-ad95-58dc7471e05f.png?auto=format" alt="bootstrap5" width="50" height="50"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/7ca1b892-411f-4f4a-a5d3-82519495ae00/preview" alt="javascript" width="50" height="50"/> </a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?fit=260%2C260&ssl=1" alt="react" width="50" height="50"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/nodejs.png" alt="nodejs" width="50" height="50"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/expressjs.png" alt="express" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/mongodb.png" alt="mongodb" width="60" height="60"/> </a>
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/718/7/png-transparent-user-interface-design-figma-computer-software-user-experience-design-web-design-user-interface-design-logo-thumbnail.png" alt="mongodb" width="60" height="60"/> </a>
 
 </p>
 
