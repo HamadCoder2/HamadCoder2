@@ -24,7 +24,7 @@
 
 <h3 align="left">📩 Connect with me:</h3> 
 <p align="left">
-<a href="https://www.linkedin.com/in/hamad-saif-020362241/" target="blank"><img align="center" src="[https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg](https://hamadsaif.onrender.com/assets/img/linkedin_3536505.png)" alt="hamadzip" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/hamad-saif-020362241/" target="blank"><img align="center" src="https://hamadsaif.onrender.com/assets/img/linkedin_3536505.png" alt="hamadzip" height="30" width="30" /></a>
 <a href="https://hashnode.com/@hamad786" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647152709324/BgqHEiR8w.png" alt="hamadzip" height="30" width="30" /></a>
 </p>
 
