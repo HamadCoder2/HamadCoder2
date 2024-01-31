@@ -30,11 +30,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/html.png" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/css.png" alt="css3" width="40" height="40"/> </a>
-   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/bootstrap.avif" alt="bootstrap5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/Javascript.png" alt="javascript" width="60" height="60"/> </a>
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?fit=260%2C260&ssl=1" alt="react" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/nodejs.png" alt="nodejs" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/expressjs.png" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/mongodb.png" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/html.png" alt="html5" width="50" height="50"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/css.png" alt="css3" width="50" height="50"/> </a>
+   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/bootstrap.avif" alt="bootstrap5" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/Javascript.png" alt="javascript" width="50" height="50"/> </a>
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?fit=260%2C260&ssl=1" alt="react" width="50" height="50"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/nodejs.png" alt="nodejs" width="50" height="50"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/expressjs.png" alt="express" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/mongodb.png" alt="mongodb" width="50" height="50"/> </a>
 </p>
 
 
