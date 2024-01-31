@@ -30,7 +30,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=all" alt="html5" width="50" height="50"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180512/veq/kisspng-responsive-web-design-boilerplate-text-html-templa-5af68ec265a277.5299510915261078424163.jpg" alt="html5" width="50" height="50"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://hamadsaif.onrender.com/assets/img/css.png" alt="css3" width="50" height="50"/> </a>
    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://ph-files.imgix.net/99145b25-863b-473c-ad95-58dc7471e05f.png?auto=format" alt="bootstrap5" width="50" height="50"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/7ca1b892-411f-4f4a-a5d3-82519495ae00/preview" alt="javascript" width="50" height="50"/> </a>
