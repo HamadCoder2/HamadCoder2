@@ -6,29 +6,23 @@
   <img style="padding: 10px 10px 0px 10px;" align="right" top="700" height="300" width="300" alt="GIF" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 </a>
 
-- 🌱 Learning &nbsp;!  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &amp; ![Cloud @AWS](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+- 🌱 Learning &nbsp;!  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &amp; ![Cloud @AWS](https://img.shields.io/badge/AWS-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
   
 - 🔭 Connecting like minded people at &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamadzip)
 
 - 💬 Reach out for Cloud / Development projects at &nbsp;[![Contact Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamadsaif.zip@gmail.com)
 
-- 📄 Explore my journey and capabilities at <strong style="font-weight:100"> [PrakashZip.com](https://hamadzip.vercel.app) </strong>
+- 📄 Explore my journey and capabilities at <strong style="font-weight:100"> [hamadZip.com](https://hamadzip.vercel.app) </strong>
 
 - ⚡ Fun Fact: I turn any idea into a unique project.
 
-- 📄 Know about my experiences <a href="https://prakashzip.github.io/SolutionsArch/" target="blank">Resume.</a>
+- 📄 Know about my experiences <a href="hamadzip.vercel.app" target="blank">Resume.</a>
 <br/>
-
-
-## ⚡ Domains
-- DevOps
-- Cloud
-- Development
 
 ## 📧 Connect with me:<br>
 - GitHub: [@prakashzip](https://github.com/prakashzip)<br>
 - Twitter: [@prakashzip](https://twitter.com/prakashzip)<br>
-- LinkedIn: [@prakashzip](https://linkedin.com/in/prakashzip)<br><br>
+- LinkedIn: [@prakashzip](https://linkedin.com/in/hamadzip)<br><br>
 Feel free to explore my repositories and get in touch for exciting collaborations and discussions! 🚀
 
 
