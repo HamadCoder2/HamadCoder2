@@ -3,18 +3,16 @@
 <p align="center">who's all about making interfaces that grab attention. I love diving into different frameworks for that perfect.</p><br>
 
 <a target="_blank" align="center" >
-  <img style="padding: 10px 10px 0px 10px;" align="right" top="700" height="300" width="400" alt="GIF" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
+  <img style="padding: 10px 10px 0px 10px;" align="right" top="700" height="400" width="400" alt="GIF" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 </a>
 
-- 🌱 Learning &nbsp;![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) &amp; ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+- 🌱 Learning &nbsp;![React](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) &amp; ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
   
-- 🔭 Connecting like minded people at &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakashzip)
+- 🔭 Connecting like minded people at &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamadzip)
 
-- 📝 Passionate blogger contributing on &nbsp;[![prakashzip.com](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://prakashzip.com)
+- 💬 Reach out for Cloud / Development projects at &nbsp;[![Contact Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamadsaif.zip@gmail.com)
 
-- 💬 Reach out for Cloud / Development projects at &nbsp;[![Contact Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyaprakash.od@gmail.com)
-
-- 📄 Explore my journey and capabilities at <strong style="font-weight:100"> [PrakashZip.com](https://prakashZip.com) </strong>
+- 📄 Explore my journey and capabilities at <strong style="font-weight:100"> [PrakashZip.com](https://hamadzip.vercel.app) </strong>
 
 - ⚡ Fun Fact: I turn any idea into a unique project.
 
