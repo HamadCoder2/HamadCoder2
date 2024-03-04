@@ -10,7 +10,7 @@
   
 - 🔭 Connecting like minded people at &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamadzip)
 
-- 💬 Reach out for Cloud / Development projects at &nbsp;[![Contact Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamadsaif.zip@gmail.com)
+- 💬 Reach out for web / Development projects at &nbsp;[![Contact Me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamadsaif.zip@gmail.com)
 
 - 📄 Explore my journey and capabilities at <strong style="font-weight:100"> [hamadZip.com](https://hamadzip.vercel.app) </strong>
 
