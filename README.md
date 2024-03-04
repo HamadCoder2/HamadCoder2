@@ -1,9 +1,9 @@
-<h1 align="center">Hello there👋, I'm Satya Prakash</h1>
-<h3 align="center">A passionate DevOps Engineer and Developer from India</h3><br>
-<p align="center">My journey in the tech realm has led me to my current role as a Multi-Cloud Engineer at Apoyphe, where I thrive on tackling complex challenges and contributing to innovative solutions.</p><br>
+<h1 align="center">Hii 👋, I'm Hamad Saif</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3><br>
+<p align="center">who's all about making interfaces that grab attention. I love diving into different frameworks for that perfect.</p><br>
 
 <a target="_blank" align="center" >
-  <img style="padding: 10px 10px 0px 10px;" align="right" top="700" height="300" width="400" alt="GIF" src="https://github.com/PrakashZip/PrakashZip/blob/main/img/coder.gif">
+  <img style="padding: 10px 10px 0px 10px;" align="right" top="700" height="300" width="400" alt="GIF" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 </a>
 
 - 🌱 Learning &nbsp;![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) &amp; ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
