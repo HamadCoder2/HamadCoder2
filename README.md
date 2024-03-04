@@ -3,10 +3,10 @@
 <p align="center">who's all about making interfaces that grab attention. I love diving into different frameworks for that perfect.</p><br>
 
 <a target="_blank" align="center" >
-  <img style="padding: 10px 10px 0px 10px;" align="right" top="700" height="400" width="400" alt="GIF" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
+  <img style="padding: 10px 10px 0px 10px;" align="right" top="700" height="300" width="300" alt="GIF" src="https://guruprasad.codes/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 </a>
 
-- 🌱 Learning &nbsp;![React](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) &amp; ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+- 🌱 Learning &nbsp;![React](https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124?style=for-the-badge&logo=kubernetes&logoColor=white) &amp; ![Cloud @AWS](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
   
 - 🔭 Connecting like minded people at &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamadzip)
 
