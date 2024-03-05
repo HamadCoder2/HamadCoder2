@@ -27,7 +27,7 @@
 Feel free to explore my repositories and get in touch for exciting collaborations and discussions! 🚀
 
 
-## 🌐 Socials:
+## 🌐 Explore My Digital Presence:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hamad.saif.146/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamadzip_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamadzip/) [![Github](https://img.shields.io/badge/github%20-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HamadCoder2) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCC9PvNqyhfuST04U_sgyNMQ) 
 
 ## 💻 Tech Stack:
