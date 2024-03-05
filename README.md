@@ -16,7 +16,7 @@
 
 - ⚡ Fun Fact: I turn any idea into a unique project.
 
-- 📄 Know about my experiences <a href="hamadzip.vercel.app" target="blank">Resume.</a>
+- 📄 Know about my experiences <a href="https://hamadzip.vercel.app" target="blank">Resume.</a>
 <br/>
 
 ## 📧Let's Connect & Collaborate:<br>
