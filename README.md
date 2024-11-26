@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Hamad Saif</h1>
-<h3 align="center">A passionate 💻 Frontend Developer from India</h3><br>
+<h3 align="center">A passionate 💻 Full Stack Developer from India</h3><br>
 <p align="center">who's all about making interfaces that grab attention. I love diving into different frameworks for that perfect.</p><br>
 
 <a target="_blank" align="center" >
